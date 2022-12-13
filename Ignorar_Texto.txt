@@ -1,0 +1,1 @@
+este es un documento de prueba utilizado para la creación del documento git ignore.
